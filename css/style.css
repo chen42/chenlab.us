@@ -215,8 +215,8 @@ div#preloader {
   padding: 70px 0px 80px;
 }
 
-.area-padding-2 {
-  padding: 70px 0px 50px;
+.area-padding-small {
+  padding: 20px 0px 20px;
 }
 
 .padding-2 {
@@ -1717,7 +1717,7 @@ div#preloader {
   border: 1px solid #444;
   line-height: 46px;
   border-radius: 50%;
-  margin-bottom: 20px;
+  margin-bottom: 0px;
 }
 
 .single-icon p {
